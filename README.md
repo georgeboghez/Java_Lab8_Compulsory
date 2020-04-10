@@ -31,4 +31,4 @@ create table albums(
 - Create the DAO class AlbumController, having the methods create(String name, int artistId, int releaseYear) and findByArtist(int artistId).
 - Implement a simple test using your classes.
 
-![Screenshot](./"Screenshot (2).png")
+![Screenshot](https://raw.githubusercontent.com/georgeboghez/Java_Lab8_Compulsory/master/Screenshot%20(2).png)
